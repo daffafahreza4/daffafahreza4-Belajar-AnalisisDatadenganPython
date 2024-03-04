@@ -2,6 +2,7 @@
 
 ## Setup environment
 ```
+pip install matplotlib
 pip install streamlit
 pip install pandas
 pip install numpy
