@@ -5,7 +5,6 @@
 pip install streamlit
 pip install pandas
 python -m pip install -U pip
-python -m pip install -U matplotlib
 pip install numpy
 ```
 
